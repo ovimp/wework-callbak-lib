@@ -1,6 +1,6 @@
 {
   "name": "ovimp/wework-callbak-lib",
-  "description": "企业微信回调和发送消息加解密库",
+  "description": "企业微信回调和发送消息加解密库-基于企微demo",
   "type": "library",
   "license": "mit",
   "authors": [
