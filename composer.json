@@ -1,0 +1,24 @@
+{
+  "name": "ovimp/wework-callbak-lib",
+  "description": "企业微信回调和发送消息加解密库",
+  "type": "library",
+  "license": "mit",
+  "authors": [
+    {
+      "name": "ovimp",
+      "email": "ovimp@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.0",
+    "ext-json": "*",
+    "ext-openssl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ovimp\\WeworkCallbak\\": "src/Ovimp/WeworkCallbak"
+    }
+  }
+}
